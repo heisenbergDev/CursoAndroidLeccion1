@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CursoAndroidLeccion1</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_about">Acerca de</string>
+    <string name="action_settings_text">Has pulsado \"Configuración\"</string>
+    <string name="action_about_text">Has pulsado \"Acerca de\"</string>    
+    <string name="hello_world">¡¡¡Hola Mundo!!!</string>
+
+</resources>
