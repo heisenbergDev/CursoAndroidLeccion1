@@ -6,6 +6,6 @@
     <string name="action_about">Acerca de</string>
     <string name="action_settings_text">Has pulsado \"Configuración\"</string>
     <string name="action_about_text">Has pulsado \"Acerca de\"</string>    
-    <string name="hello_world">¡¡¡Hola Mundo!!!</string>
+    <string name="hello_world">¡¡¡Hola Mundo!!!. Bienvenidos al Curso de desarrollo Android</string>
 
 </resources>
